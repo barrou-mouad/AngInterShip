@@ -1,6 +1,14 @@
 *{
     margin: 0px;
 }
-app-sidenavbar{
-    z-index: -2 !important;
+#container{
+
+
+}
+.app-content{
+width: 300px !important;
+background-color: rgb(196, 111, 111);
+}
+.app-sidenavbar{
+background-color: red ;
 }

@@ -4,6 +4,7 @@ nav {
     padding: 15px 5%;
     align-items: center;
     background: #BFD8D5;
+    z-index: 15 !important;
 }
 
 .logo {
@@ -90,6 +91,7 @@ ul li a.active {
 @media screen and (max-width: 768px) {
     nav {
         border-bottom: 1px solid #455468;
+        z-index: 16 !important;
     }
     ul {
         position: absolute;

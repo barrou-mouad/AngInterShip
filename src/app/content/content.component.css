@@ -1,0 +1,8 @@
+div{
+    background-color: brown;
+    height: 200px;
+    width: 900px;
+}
+@media (max-width: 767px) {
+
+}
